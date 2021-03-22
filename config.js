@@ -1,6 +1,5 @@
-const config = {
-    token: '',
-    prefix: ''
-}
+{
+    token: 'ODE4NzUzMjA4OD
+    prefix
 
 module.exports = config;
